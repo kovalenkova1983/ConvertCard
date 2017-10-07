@@ -1,0 +1,67 @@
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe.config
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csprojResolveAssemblyReference.cache
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.g.cs
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\App.g.cs
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.cache
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.lref
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.pdb
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.baml
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.g.resources
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.Properties.Resources.resources
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csproj.GenerateResource.Cache
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.exe
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.pdb
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\Help.g.cs
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\Help.baml
+D:\Users\kovalenkos\Google Диск\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\Resources\Безымянный.jpg
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\Resources\Безымянный.jpg
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe.config
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.pdb
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csprojResolveAssemblyReference.cache
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\Help.g.cs
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.g.cs
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\App.g.cs
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.cache
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.lref
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\Help.baml
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.baml
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.g.resources
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.Properties.Resources.resources
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csproj.GenerateResource.Cache
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.exe
+D:\GoogleDisk\CyberBionik\Dom\01\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.pdb
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\bin\Debug\Resources\Безымянный.jpg
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe.config
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.pdb
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csprojResolveAssemblyReference.cache
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\Help.g.cs
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\App.g.cs
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.cache
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.lref
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\Help.baml
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.baml
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.g.resources
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.Properties.Resources.resources
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csproj.GenerateResource.Cache
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.exe
+C:\Users\kovalenkos\Desktop\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.pdb
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe.config
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.exe
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\bin\Debug\ConverterWPF.pdb
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csprojResolveAssemblyReference.cache
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\Help.g.cs
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\App.g.cs
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\Help.baml
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\MainWindow.baml
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.g.resources
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.csproj.GenerateResource.Cache
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.exe
+D:\YandexDisk\YandexDisk\ConverterWPF\ConverterWPF\obj\Debug\ConverterWPF.pdb
